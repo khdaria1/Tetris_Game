@@ -1,4 +1,5 @@
-import pygame, sys              # Day1
+import pygamesys              # Day1
+import sys                    # Day1
 #from grid import Grid 
 #from blocks import *
 from game import Game
