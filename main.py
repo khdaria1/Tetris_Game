@@ -1,6 +1,6 @@
 import pygame
 import sys
-from grid1 import Grid
+from grid import Grid
 
 pygame.init()
 # dark_blue = (44, 44, 127)
