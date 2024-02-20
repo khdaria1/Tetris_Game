@@ -2,12 +2,12 @@
 
 ## Cloning the Repository
 
-    git clone https://github.com/Seri1436/univ_game_tetris.git
+    git clone https://github.com/khdaria1/game_tetris.git
 
 
 ## Setting up a Virtual Environment
 
-    cd ./univ_game_tetris
+    cd ./game_tetris
 
     pyenv versions
     pyenv local 3.11.6
