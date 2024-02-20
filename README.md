@@ -1,4 +1,4 @@
-# Seri University : game tetris
+# game_tetris
 
 ## Cloning the Repository
 
